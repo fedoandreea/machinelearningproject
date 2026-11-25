@@ -94,5 +94,5 @@ Fill this in together and keep it in sync with the GitHub Issues.
 | Task 2 – M1 decision tree (scratch + sklearn) | | |
 | Task 2 – M2 neural network (scratch + library) | | |
 | Task 2 – M3 | | |
-| Task 3 – M4 + PCA (Case 2) | | |
+| Task 3 – M4 + PCA (Case 2) | Ofri | in progress |
 | Report writing + figures | | |
